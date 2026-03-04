@@ -13,6 +13,10 @@ When a number is found in the command arguments, it will fetch the corresponding
 
     cat file | nth "second" 1 "forth" 3
 
+To join column entries:
+
+    cat file | nth 0"/"1"
+
 ### Build
 
     cargo build -r
