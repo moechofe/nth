@@ -1,4 +1,4 @@
-A command-line tool that returns extracted columns from stdin.
+A command-line tool that returns extracted columns from STDIN.
 Aims to replace `awk {print $1}` with something easier to use.
 
 ### Usage
