@@ -1,5 +1,5 @@
 A command-line tool that returns extracted columns from stdin.
-Aims to replace awk '{print $1}' with something easier to use.
+Aims to replace awk `{print $1}` with something easier to use.
 
 ### Usage
 
